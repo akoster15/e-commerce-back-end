@@ -1,6 +1,8 @@
-## E-Commerce-Back-End
+# E-Commerce-Back-End
 
-## Description
+https://github.com/akoster15/e-commerce-back-end/blob/main/assets/images/screenshot.PNG
+
+## About
 
 This web application allows users to access a database of products based upon the product id, tag id, or category id. The user is able to add, delete, or edit new products to the database with the price and stock listed. 
 In addition, the user is able to add, delete, or edit categories and/or tags to the data base. 
