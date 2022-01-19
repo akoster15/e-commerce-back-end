@@ -1,6 +1,6 @@
 # E-Commerce-Back-End
 
-https://github.com/akoster15/e-commerce-back-end/blob/main/assets/images/screenshot.PNG
+![screenshot](https://github.com/akoster15/e-commerce-back-end/blob/main/assets/images/screenshot.PNG)
 
 ## About
 
